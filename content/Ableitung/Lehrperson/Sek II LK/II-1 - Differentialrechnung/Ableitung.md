@@ -1,5 +1,7 @@
 ![[Differentialquotient#Definition]]
 
+[[Ableitung/Lehrperson/Sek II LK/II-1 - Differentialrechnung/Differentialquotient]]
+
 # Ableitungsregeln
 
 ## Additionsregel

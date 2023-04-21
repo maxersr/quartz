@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "b4cdc89b933fb023",
+    "type": "split",
+    "children": [
+      {
+        "id": "deebc6f6ea919280",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0ce33e457a0b430",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lernende/6-2 - Zuordnungen in der Umwelt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e59c15ebbe0e96cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "4dedf6e749af2042",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0687256b71db83f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "94119768182d0d0a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Ableitung",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "13ee27c315d5bb13",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 289.5
+  },
+  "right": {
+    "id": "32e4544df1a9f070",
+    "type": "split",
+    "children": [
+      {
+        "id": "918e820689b78f86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7a1fe251c65342a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lernende/6-2 - Zuordnungen in der Umwelt.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "04bb25f815bb0326",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lernende/6-2 - Zuordnungen in der Umwelt.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d62481720d3f6ac4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e92d5e54d2c0ee99",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lernende/6-2 - Zuordnungen in der Umwelt.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "canvas:Create new canvas": false
+    }
+  },
+  "active": "e0ce33e457a0b430",
+  "lastOpenFiles": [
+    "Lehrperson/Sek II LK/II-1 - Differentialrechnung/Stetigkeit.md",
+    "Lehrperson/Sek II LK/II-1 - Differentialrechnung/bilder/epsilon-delta-cont.png",
+    "Lehrperson/Sek II LK/II-1 - Differentialrechnung/bilder/fkt-luecke.png",
+    "Lehrperson/Sek II LK/II-1 - Differentialrechnung/bilder/sin(x)=x.png",
+    "Lehrperson/Sek II LK/II-1 - Differentialrechnung/bilder/sin(x+3,5pi)+1 mit Sekante.png",
+    "Lehrperson/Sek II LK/II-1 - Differentialrechnung/bilder/sin(x+3,5pi)+1.png",
+    "Lehrperson/Sek II LK/II-1 - Differentialrechnung/bilder/sinx nicht x.png",
+    "Lernende/Grenzwert von Folgen.md",
+    "Lehrperson/Klasse 10/10-4 - Funktionale Zusammenhänge/Folgen.md",
+    "Lehrperson/Klasse 9/9-3 - Rechtwinklige Dreiecke/Höhensatz.md",
+    "Lehrperson/Klasse 9/9-3 - Rechtwinklige Dreiecke/Kathetensatz.md",
+    "Lehrperson/Klasse 9/9-3 - Rechtwinklige Dreiecke/Rechtwinkliges Dreieck.md",
+    "Lehrperson/Klasse 9/9-3 - Rechtwinklige Dreiecke/rechten Winkel.md",
+    "Lehrperson/Klasse 10/10-4 - Funktionale Zusammenhänge.md",
+    "Lehrperson/Sek II LK/II-1 - Differentialrechnung.md",
+    "Lehrperson/Klasse 8/8-3 - Funktionen und lineare Gleichungssysteme/Lineare Funktion.md",
+    "Lehrperson/Klasse 9/9-3 - Rechtwinklige Dreiecke.md",
+    "Lehrperson/Klasse 9/9-3 - Rechtwinklige Dreiecke/Satz des Pythagoras.md",
+    "Lehrperson/Klasse 9/9-1 - Funktionen und Potenzen.md",
+    "Lehrperson/Klasse 9/9-3 - Rechtwinklige Dreiecke/bilder/HöhenKathetenSatz.png",
+    "Lehrperson/Klasse 9/9-3 - Rechtwinklige Dreiecke/bilder/HöhenKathetenSatz.png",
+    "Lehrperson/Klasse 10/10-1 - Wachstumsvorgänge und periodische Vorgänge.md",
+    "Lehrperson/Klasse 10/10-3 - Algebraisches Lösen geometrischer Probleme.md",
+    "Lehrperson/Klasse 7/7-1 - Geometrie in der Ebene/Dreieck.md",
+    "Lehrperson/Klasse 7/7-1 - Geometrie in der Ebene/Gerade.md",
+    "Lehrperson/Klasse 6/Winkel.md",
+    "Lehrperson/Klasse 9/9-3 - Rechtwinklige Dreiecke/bilder/rechtwinkligesDreieck.png",
+    "Lehrperson/Klasse 6/bilder/Vollwinkel.png",
+    "Lehrperson/Klasse 6/bilder",
+    "Lehrperson/Klasse 9/9-3 - Rechtwinklige Dreiecke/bilder",
+    "Lehrperson/Klasse 7/7-1 - Geometrie in der Ebene.md",
+    "Lehrperson/Klasse 8/8-3 - Funktionen und lineare Gleichungssysteme/Funktion.md",
+    "Lehrperson/Sek II LK/II-5 - Integralrechnung/Stammfunktion.md",
+    "Lehrperson/Sek II LK/II-5 - Integralrechnung/Hauptsatz der Differential- und Integralrechnung.md",
+    "Lehrperson/Sek II LK/II-5 - Integralrechnung/Integral.md",
+    "Lehrperson/Sek II LK/II-1 - Differentialrechnung/Ableitung.md",
+    "Lehrperson/Klasse 9/9-3 - Rechtwinklige Dreiecke",
+    "Extremwertprobleme.md",
+    "Lernende/6-2 - Zuordnungen in der Umwelt.md",
+    "Lehrperson/Klasse 7/7-1 - Geometrie in der Ebene",
+    "Lehrperson/Klasse 10/10-4 - Funktionale Zusammenhänge",
+    "gauss.sty",
+    "Lehrperson/Klasse 8/8-3 - Funktionen und lineare Gleichungssysteme/bilder",
+    "Lehrperson/Klasse 8/8-3 - Funktionen und lineare Gleichungssysteme",
+    "Lehrperson/Sek II LK/II-5 - Integralrechnung",
+    "preamble.sty",
+    "Lehrperson/Untitled.canvas",
+    "Untitled.canvas"
+  ]
+}
